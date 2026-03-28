@@ -15,3 +15,5 @@ input/
 
 title_classifier*/
 *.arrow
+results_tuning/
+results_tuning_*/
